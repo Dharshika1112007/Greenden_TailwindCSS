@@ -4,7 +4,7 @@ GreenDen is a responsive plant shopping website built using HTML and Tailwind CS
 It is designed as an online platform to showcase and sell indoor and outdoor plants.
 
 ## 🚀 Live Preview
-
+ https://dharshika1112007.github.io/Greenden_TailwindCSS/
 
 ## 📌 Features
 
